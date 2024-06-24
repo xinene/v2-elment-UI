@@ -1,8 +1,8 @@
 {
   "name": "v2-elment-ui",
   "description": "element-ui for vue2",
-  "auth": "xinene",
-  "version": "1.0.1",
+  "auth": "kele_hx",
+  "version": "1.0.0",
   "main": "lib/v2-elment-ui.umd.js",
   "homepage": "https://github.com/xinene/v2-elment-UI.git",
   "repository": {
